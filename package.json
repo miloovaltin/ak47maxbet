@@ -1,0 +1,16 @@
+{
+"name": "ak47maxbet",
+"theme": "ak47max bet",
+"version": "5.9.9",
+"description": "ak47max bet ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ แจกเงินเครดิตฟรี",
+"keywords": [
+"ak47max bet",
+"ak47max bet เครดิตฟรี",
+"ak47max bet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ak47maxbet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
